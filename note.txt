@@ -1,0 +1,21 @@
+VIF
+Influence
+Cooks distance
+Group
+_______________________________
+dummies and standard scaler
+ Without followers : 0.3508849708564187
+ with all          : 0.35537155242249474
+
+dummeis drop first false , scaled
+ with cluster      : 0.3584458759416883
+  withou video id  : 0.41857073523711164
+
+ w/id wo/cluster   : 0.4181272785173834
+
+without sclaled
+ wo/vid_id         : 0.41695248531478457
+
+with age group/usergroup
+ wo/age            : 0.39406704007026594
+ w/age             : 0.4170418219005715
